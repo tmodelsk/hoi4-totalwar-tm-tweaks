@@ -209,7 +209,7 @@ ideologies = {
 		rules = {
 			can_force_government = no
 			can_puppet = yes
-			can_send_volunteers = no
+			can_send_volunteers = yes
 		}
 		
 		modifiers = {
