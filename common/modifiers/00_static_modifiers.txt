@@ -487,7 +487,7 @@ diff_normal_player = {
 	max_planning = -0.1
 	army_core_attack_factor = 0.1
 	army_core_defence_factor = 0.08
-	org_loss_when_moving = 0.4
+	org_loss_when_moving = 0.3
 }
 
 diff_hard_player = {
@@ -547,8 +547,8 @@ diff_normal_ai = {
 	industrial_capacity_dockyard = 0.4 # Naval sucks in 1.6 :(
 	training_time_army_factor = -0.6
 	no_supply_grace = 120
-	army_attack_factor = 0.1
-	army_speed_factor = 0.1
+	army_attack_factor = 0.05
+	army_speed_factor = 0.05
 	navy_anti_air_attack_factor = 0.2
 	amphibious_invasion_defence = 0.15
 	air_mission_efficiency = 0.1
