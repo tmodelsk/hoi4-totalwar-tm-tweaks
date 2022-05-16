@@ -5,8 +5,8 @@ List of changes, see also proposed mod list:
 * More special forces: +12 battalions flat bonus
 * Slightly more volunteers
 * Normal difficulty softened a little bit:
-- organization loss when moving 04 -> 03
-- AI attack & speed bonus 10% -> 5%
+__ - organization loss when moving 04 -> 03
+__ - AI attack & speed bonus 10% -> 5%
 * Normal difficulty: research speed -15% for player & AI (see suggested mod below)
 * War goals: little less time & political points required. war goals last longer
 * All doctrines research speed +15% (to balance slower research speed - see above).
