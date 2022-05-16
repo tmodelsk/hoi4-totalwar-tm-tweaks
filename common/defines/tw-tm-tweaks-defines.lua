@@ -1,0 +1,4 @@
+NDefines.NDiplomacy.VOLUNTEERS_PER_COUNTRY_ARMY = 0.075;
+NDefines.NDiplomacy.VOLUNTEERS_DIVISIONS_REQUIRED = 30;
+--NDefines.NCountry.SPECIAL_FORCES_CAP_BASE = 0.075;
+NDefines.NCountry.SPECIAL_FORCES_CAP_MIN = 24;  -- org = 12 (looks like)
